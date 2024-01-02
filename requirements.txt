@@ -1,5 +1,5 @@
 iso639-lang
-openai
+openai>=0.28.1
 tenacity
 git+https://github.com/FlowerWrong/langchain.git@support-multi-openai-api-keys
 funcy
